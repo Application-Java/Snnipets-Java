@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Json/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Json/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Fx/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Fx/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Fx/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Fx/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Fx/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Fx/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Fx/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/abdel-dev/eclipse-workspace/Snnipets-Java/lib/Java-Fx/javafx-swt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
